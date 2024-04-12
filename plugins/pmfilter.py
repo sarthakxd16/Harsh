@@ -1485,7 +1485,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('⛥ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ⛥', url='https://t.me/requestbox1')
                 ]]
             else:
-                await query.answer("🚸 ɴᴏᴛᴇ :\nᴀᴅ-ꜰʀᴇᴇ ꜱᴇʀᴠɪᴄᴇ ɪꜱ ᴏɴʟʏ ꜰᴏʀ ᴘʀᴇᴍɪᴜᴍ ᴜꜱᴇʀꜱ.\n\nᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴄʜᴇᴄᴋ ᴘʟᴀɴꜱ.\n\nᴘᴏᴡᴇʀᴇᴅ ʙʏ @Rb1official", show_alert=True)
+                await query.answer("🚸 ɴᴏᴛᴇ :ᴄʟɪᴄᴋ ᴏᴋ ʙᴇʟᴏᴡ ᴀɴᴅ ꜱᴇᴇ ᴛʜᴀᴛ ᴍᴇꜱꜱᴀɢᴇ ᴀɢᴀɪɴ ʏᴏᴜ ᴡɪʟʟ ꜰɪɴᴅ 𝗦𝗧𝗥𝗘𝗔𝗠 𝗢𝗡𝗟𝗜𝗡𝗘 ꜰᴇᴀᴛᴜʀᴇ ᴛʜᴇʀᴇ\n\nᴛᴏ ꜱᴋɪᴘ ᴀᴅꜱ ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ ᴀᴛ @rb1official.\n\nᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴄʜᴇᴄᴋ ᴘʟᴀɴꜱ.\n\nᴘᴏᴡᴇʀᴇᴅ ʙʏ #ʀᴇQᴜᴇᴛʙᴏx1", show_alert=True)
                 await query.message.reply_text(
                 text="<b>‼️ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ ?\n\n✅ ᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴀɴᴅ ᴇɴᴊᴏʏ ᴀᴅ-ꜰʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ.</b>",
                 quote=True,
