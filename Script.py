@@ -251,8 +251,8 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 ✪ ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ:  <a href="https://t.me/rb1official">ғʀᴏᴍ ʜᴇʀᴇ</a> ✪
 ╰─────── • ◆ • ───────╯
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ ᴜᴘᴅᴀᴛᴇ : <a href="https://t.me/requestbox1officialofficial">ʜᴇʀᴇ</a>
-▫️ sᴜᴘᴘᴏʀᴛ : @helpsarthak_bot
+▫️ ᴄʜᴀɴɴᴇʟ ᴜᴘᴅᴀᴛᴇ : <a href="https://t.me/requestbox1officialofficial">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+▫️ sᴜᴘᴘᴏʀᴛ : <a href="https://t.me/helpsarthak_bot">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
